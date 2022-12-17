@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-17T19:29:52 EET" name="Default suite" finished-at="2022-12-17T19:30:41 EET" duration-ms="49303">
+    <groups>
+    </groups>
+    <test started-at="2022-12-17T19:29:52 EET" name="Default test" finished-at="2022-12-17T19:30:41 EET" duration-ms="49303">
+      <class name="Cart.checkOut">
+        <test-method is-config="true" signature="Init()[pri:0, instance:Cart.checkOut@a514af7]" started-at="2022-12-17T19:29:52 EET" name="Init" finished-at="2022-12-17T19:30:24 EET" duration-ms="32376" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Init -->
+        <test-method signature="AddAll()[pri:0, instance:Cart.checkOut@a514af7]" started-at="2022-12-17T19:30:24 EET" name="AddAll" finished-at="2022-12-17T19:30:25 EET" duration-ms="304" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddAll -->
+        <test-method signature="cartCheckOut()[pri:0, instance:Cart.checkOut@a514af7]" started-at="2022-12-17T19:30:25 EET" name="cartCheckOut" finished-at="2022-12-17T19:30:25 EET" duration-ms="314" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cartCheckOut -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:Cart.checkOut@a514af7]" started-at="2022-12-17T19:30:25 EET" name="logout" finished-at="2022-12-17T19:30:41 EET" duration-ms="16288" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+      </class> <!-- Cart.checkOut -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
